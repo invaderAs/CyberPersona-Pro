@@ -27,14 +27,6 @@
 
 ---
 
-##  Screenshot
-
-> *Sample UI 
-
-![CyberPersona Pro GUI](https://drive.google.com/file/d/1sjgsPYN9ZUfcqnTxOVzUyi5EuU0nS-Jj/view?usp=sharing)
-
----
-
 ##  Download
 
 👉 [**Download CyberPersona Pro (.exe)**](https://github.com/invaderAs/CyberPersona-Pro/releases/latest)
