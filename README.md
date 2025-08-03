@@ -42,7 +42,7 @@ No Python needed — just download and run.
 
 - Built using Python + Tkinter (GUI)
 - Uses `faker` to generate realistic persona data
-- Temp email integration via `mail.tm` API
+- Temp email integration via `mail.tm`module
 - Wrapped into a `.exe` using `PyInstaller` (`--onefile`)
 
 ---
