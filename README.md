@@ -13,7 +13,7 @@
 
 ---
 
-## ⚙ Features
+## Features
 
 -  GUI-based (no command line needed)
 -  Male/Female persona generation
@@ -38,7 +38,7 @@ No Python needed — just download and run.
 
 ---
 
-## 📁 How It Works (Under the Hood)
+##  How It Works (Under the Hood)
 
 - Built using Python + Tkinter (GUI)
 - Uses `faker` to generate realistic persona data
@@ -47,4 +47,5 @@ No Python needed — just download and run.
 
 ---
 
+##  CyberPersona Pro GUI needs internet to run. If you want offline version then CyberPersoma basic is best for you !
 
