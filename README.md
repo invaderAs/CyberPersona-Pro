@@ -47,5 +47,5 @@ No Python needed — just download and run.
 
 ---
 
-##  CyberPersona Pro GUI needs internet to run. If you want offline version then CyberPersoma basic is best for you !
+##  CyberPersona Pro GUI needs internet to run. If you want offline version then CyberPersona basic is best for you !
 
